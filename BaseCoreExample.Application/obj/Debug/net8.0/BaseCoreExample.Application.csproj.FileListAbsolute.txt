@@ -1,0 +1,15 @@
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/bin/Debug/net8.0/BaseCoreExample.Application.deps.json
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/bin/Debug/net8.0/BaseCoreExample.Application.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/bin/Debug/net8.0/BaseCoreExample.Application.pdb
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/bin/Debug/net8.0/BaseCoreExample.Core.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/bin/Debug/net8.0/BaseCoreExample.Core.pdb
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.csproj.AssemblyReference.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.AssemblyInfoInputs.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.AssemblyInfo.cs
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.csproj.CoreCompileInputs.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.csproj.CopyComplete
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/refint/BaseCoreExample.Application.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.pdb
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/ref/BaseCoreExample.Application.dll

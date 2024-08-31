@@ -1,0 +1,12 @@
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/bin/Debug/net8.0/BaseCoreExample.Core.deps.json
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/bin/Debug/net8.0/BaseCoreExample.Core.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/bin/Debug/net8.0/BaseCoreExample.Core.pdb
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/BaseCoreExample.Core.csproj.AssemblyReference.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/BaseCoreExample.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/BaseCoreExample.Core.AssemblyInfoInputs.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/BaseCoreExample.Core.AssemblyInfo.cs
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/BaseCoreExample.Core.csproj.CoreCompileInputs.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/BaseCoreExample.Core.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/refint/BaseCoreExample.Core.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/BaseCoreExample.Core.pdb
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/obj/Debug/net8.0/ref/BaseCoreExample.Core.dll

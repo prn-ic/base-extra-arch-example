@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDN3TMmSKw2WJ/s6hMmW/ApeooPmgD2cqv9VQSAQtzBtdD2nG1x93kowEnUWJcc1S6mse+6YXdwkor9aREsgZw==",
+  "success": true,
+  "projectFilePath": "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/BaseCoreExample.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/zmqp/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SN3cSC0qfJBr+cvcHz7jGdpPc3LYv/qMmRH8FHQTJ3xc/0O9GiEuK9WIG0LhFBmF+QznI6HMqaXHDAr6UYcLw==",
+  "success": true,
+  "projectFilePath": "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/BaseCoreExample.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/zmqp/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

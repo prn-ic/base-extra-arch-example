@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KrbtKB87vxTnTVi9Kc7oDuS6060Z5m0XX88cm+BsN+Q=",
+  "Source": "BaseCoreExample.WebApi",
+  "BasePath": "_content/BaseCoreExample.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
