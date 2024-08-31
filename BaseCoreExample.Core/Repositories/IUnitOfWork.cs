@@ -5,8 +5,9 @@ namespace BaseCoreExample.Core.Repositories
     public interface IUnitOfWork
     {
         public IBaseRepository<T> Repository<T>()
-            where T : IBaseEntity;
+            where T : class, IBaseEntity;
 
+        public IBookRepository Books { get; }
         public void Commit();
         public Task CommitAsync(CancellationToken cancellationToken = default);
     }

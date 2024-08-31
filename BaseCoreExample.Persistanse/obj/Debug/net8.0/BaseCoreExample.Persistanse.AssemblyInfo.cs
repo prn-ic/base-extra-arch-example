@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaseCoreExample.Persistanse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+450b5946057e60feae9c8bddd2637997e3874f78")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseCoreExample.Persistanse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseCoreExample.Persistanse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

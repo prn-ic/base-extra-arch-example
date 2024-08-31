@@ -17,7 +17,7 @@ namespace BaseCoreExample.Application.Queries
 
     public class BaseFindQueryHandler<TEntity, TResponse>(IMapper mapper, IUnitOfWork unitOfWork)
         : IRequestHandler<BaseFindQuery<TEntity, TResponse>, IEnumerable<TResponse>>
-        where TEntity : IBaseEntity
+        where TEntity : class, IBaseEntity
         where TResponse : IBaseResponse
     {
         private readonly IUnitOfWork _unitOfWork = unitOfWork;

@@ -5,8 +5,7 @@ using MediatR;
 
 namespace BaseCoreExample.Application.Commands
 {
-    public class BaseSaveChangesCommand<TRequest, TResponse>(TRequest request)
-        : IRequest<TResponse>
+    public class BaseSaveChangesCommand<TRequest, TResponse>(TRequest request) : IRequest<TResponse>
     {
         public TRequest Request { get; } = request;
     }
@@ -16,7 +15,7 @@ namespace BaseCoreExample.Application.Commands
         IMapper mapper
     ) : IRequestHandler<TCommand, TResponse>
         where TCommand : BaseSaveChangesCommand<TRequest, TResponse>
-        where TEntity : IBaseEntity
+        where TEntity : class, IBaseEntity
     {
         private readonly IUnitOfWork _unitOfWork = unitOfWork;
 
