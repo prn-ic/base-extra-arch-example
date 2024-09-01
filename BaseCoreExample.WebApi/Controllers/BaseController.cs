@@ -10,9 +10,9 @@ namespace BaseCoreExample.WebApi.Controllers
 {
     public abstract class BaseController<TEntity, TRequest, TResponse>(IMediator mediator)
         : ControllerBase
-        where TEntity : IBaseEntity
-        where TRequest : Application.Requests.IBaseRequest
-        where TResponse : IBaseResponse
+        where TEntity : class, IBaseEntity
+        where TRequest : class, Application.Requests.IBaseRequest
+        where TResponse : class, IBaseResponse
     {
         protected readonly IMediator _mediator = mediator;
 

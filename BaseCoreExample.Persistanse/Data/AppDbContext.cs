@@ -10,5 +10,6 @@ namespace BaseCoreExample.Persistanse.Data
 
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options) { }
+
     }
 }

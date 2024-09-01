@@ -9,8 +9,8 @@ namespace BaseCoreExample.Application.Queries
 {
     public class BaseFindQuery<TEntity, TResponse>(Specification<TEntity> specification)
         : IRequest<IEnumerable<TResponse>>
-        where TEntity : IBaseEntity
-        where TResponse : IBaseResponse
+        where TEntity : class, IBaseEntity
+        where TResponse : class, IBaseResponse
     {
         public Specification<TEntity> Specification { get; } = specification;
     }
@@ -18,7 +18,7 @@ namespace BaseCoreExample.Application.Queries
     public class BaseFindQueryHandler<TEntity, TResponse>(IMapper mapper, IUnitOfWork unitOfWork)
         : IRequestHandler<BaseFindQuery<TEntity, TResponse>, IEnumerable<TResponse>>
         where TEntity : class, IBaseEntity
-        where TResponse : IBaseResponse
+        where TResponse : class, IBaseResponse
     {
         private readonly IUnitOfWork _unitOfWork = unitOfWork;
         private readonly IMapper _mapper = mapper;

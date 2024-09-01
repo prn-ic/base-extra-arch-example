@@ -13,3 +13,4 @@
 /home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/refint/BaseCoreExample.Application.dll
 /home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.pdb
 /home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/ref/BaseCoreExample.Application.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/obj/Debug/net8.0/BaseCoreExample.Application.sourcelink.json

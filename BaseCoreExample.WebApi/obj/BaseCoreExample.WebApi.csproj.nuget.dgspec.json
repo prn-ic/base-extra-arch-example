@@ -138,6 +138,83 @@
         }
       }
     },
+    "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/BaseCoreExample.Persistanse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/BaseCoreExample.Persistanse.csproj",
+        "projectName": "BaseCoreExample.Persistanse",
+        "projectPath": "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/BaseCoreExample.Persistanse.csproj",
+        "packagesPath": "/home/zmqp/.nuget/packages/",
+        "outputPath": "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zmqp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/BaseCoreExample.Core.csproj": {
+                "projectPath": "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Core/BaseCoreExample.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.7, 8.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.WebApi/BaseCoreExample.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -162,6 +239,9 @@
             "projectReferences": {
               "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/BaseCoreExample.Application.csproj": {
                 "projectPath": "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Application/BaseCoreExample.Application.csproj"
+              },
+              "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/BaseCoreExample.Persistanse.csproj": {
+                "projectPath": "/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/BaseCoreExample.Persistanse.csproj"
               }
             }
           }
@@ -179,6 +259,12 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

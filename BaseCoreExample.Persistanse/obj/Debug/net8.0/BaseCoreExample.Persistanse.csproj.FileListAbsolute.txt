@@ -1,0 +1,16 @@
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/bin/Debug/net8.0/BaseCoreExample.Persistanse.deps.json
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/bin/Debug/net8.0/BaseCoreExample.Persistanse.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/bin/Debug/net8.0/BaseCoreExample.Persistanse.pdb
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/bin/Debug/net8.0/BaseCoreExample.Core.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/bin/Debug/net8.0/BaseCoreExample.Core.pdb
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.csproj.AssemblyReference.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.GeneratedMSBuildEditorConfig.editorconfig
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.AssemblyInfoInputs.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.AssemblyInfo.cs
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.csproj.CoreCompileInputs.cache
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.sourcelink.json
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.csproj.CopyComplete
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/refint/BaseCoreExample.Persistanse.dll
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/BaseCoreExample.Persistanse.pdb
+/home/zmqp/Документы/local-projects/charp/base-core-example/BaseCoreExample.Persistanse/obj/Debug/net8.0/ref/BaseCoreExample.Persistanse.dll
